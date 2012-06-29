@@ -1,0 +1,2 @@
+1>warnings in directory e:\src
+1>e:\src\kbdhook.cpp(207) : warning C4996: 'ExAllocatePool': was declared deprecated
